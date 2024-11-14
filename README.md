@@ -4,5 +4,10 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. The game is int
 ## Game Design
 The game consists of a 3x3 grid where players take turns marking a square with either 'X' or 'O'. The game ends when one player gets three marks in a row, column, or diagonal. If all squares are filled and no one has won, the game ends in a draw.
 
-Win Conditions:Three marks in a row horizontally, vertically, or diagonally.
-Draw Condition:All squares are filled and there is no winner.
+Win Conditions:
+
+Three marks in a row horizontally, vertically, or diagonally.
+
+Draw Condition:
+
+All squares are filled and there is no winner.
